@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IlLookas
 - 👀 I’m interested in finding a software engineer
 - 🌱 I’m currently learning about API
-- 💞️ I’m looking to collaborate on mobile application
+- 💞️ I’m looking to collaborate on developing the next most downloaded mobile application
 - 📫 How to reach me liluke18@gmail.com
 
 <!---
